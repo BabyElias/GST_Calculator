@@ -4,7 +4,9 @@ body {
   margin-left: 20%;
   margin-right: 25%;
   font-size: x-large;
-  background-color: lightgreen;
+  background-image:url("image.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 table {
